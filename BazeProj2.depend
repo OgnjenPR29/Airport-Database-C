@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1642967132 source:d:\projekatizbaza\bazeproj2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"operacije.h"
+
+1642981207 d:\projekatizbaza\bazeproj2\operacije.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	"struktura.h"
+
+1642692716 d:\projekatizbaza\bazeproj2\struktura.h
+
+1642985123 source:d:\projekatizbaza\bazeproj2\operacije.c
+	"operacije.h"
+	<string.h>
+	<io.h>
+	<stdbool.h>
+
